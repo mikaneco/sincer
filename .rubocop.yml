@@ -10,7 +10,7 @@ Style/StringLiteralsInInterpolation:
   EnforcedStyle: double_quotes
 
 Layout/LineLength:
-  Max: 120
+  Max: 200
 
 Documentation:
   Enabled: false
@@ -19,6 +19,7 @@ Metrics/MethodLength:
   Enabled: false
   CountComments: false # count full line comments?
   Max: 200
+
 Metrics/BlockLength:
   Exclude:
     - "spec/**/*"
