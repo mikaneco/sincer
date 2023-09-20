@@ -1,6 +1,6 @@
 # Sincer
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/sincer`. To experiment with that code, run `bin/console` for an interactive prompt.
+[![Gem Version](https://badge.fury.io/rb/sincer.svg)](https://rubygems.org/gems/sincer)
+[![GitHub Actions CI](https://github.com/mikaneco/sincer/workflows/CI/badge.svg)](https://github.com/mikaneco/sincer/actions?query=workflow%3ACI)
 
 ## Description
 A gem providing a simple interface for getting how many minutes, hours, days, weeks, months, years have passed since or will pass until the specified date.
