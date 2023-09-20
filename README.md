@@ -1,6 +1,6 @@
 # Sincer
 [![Gem Version](https://badge.fury.io/rb/sincer.svg)](https://rubygems.org/gems/sincer)
-[![GitHub Actions CI](https://github.com/mikaneco/sincer/workflows/CI/badge.svg)](https://github.com/mikaneco/sincer/actions?query=workflow%3ACI)
+[![GitHub Actions CI](https://github.com/mikaneco/sincer/actions/workflows/main.yml/badge.svg)](https://github.com/mikaneco/sincer/actions/workflows/main.yml)
 
 ## Description
 A gem providing a simple interface for getting how many minutes, hours, days, weeks, months, years have passed since or will pass until the specified date.
